@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modulos titulo="DAM" tipo="C" familia="Informática y Comunicaciones">
+	<modulo id="2" ref="0487">
+		<titulo>Entornos de Desarrollo</titulo>
+		<numerohoras>90</numerohoras>
+		<unidades_trabajo>
+		</unidades_trabajo>
+	</modulo>
+	<modulo id="4" ref="0373">
+		<numerohoras>140</numerohoras>
+		<titulo>: Lenguajes de marcas y sistemas de gestión de información</titulo>
+		<unidades_trabajo/>
+	</modulo>
+	<modulo id="5" ref="0485">
+		<numerohoras>270</numerohoras>
+		<titulo>Programación</titulo>
+		<unidades_trabajo/>
+	</modulo>
+	<modulo id="1" ref="0484">
+		<numerohoras>205</numerohoras>
+		<titulo>: Bases de datos</titulo>
+		<unidades_trabajo/>
+	</modulo>
+	<modulo id="6" ref="0483">
+		<numerohoras>205</numerohoras>
+		<titulo>Sistemas Informáticos</titulo>
+		<unidades_trabajo/>
+	</modulo>
+	<modulo id="3" ref="0493">
+		<numerohoras>90</numerohoras>
+		<titulo>: Formación y orientación laboral</titulo>
+		<unidades_trabajo/>
+	</modulo>
+	<modulo id="7" ref="0486">
+		<titulo>Acceso a Datos</titulo>
+		<numerohoras>120</numerohoras>
+		<unidades_trabajo>
+		</unidades_trabajo>
+	</modulo>
+	<modulo id="8" ref="0488">
+		<numerohoras>120</numerohoras>
+		<titulo>Diseño de interfaces</titulo>
+		<unidades_trabajo/>
+	</modulo>
+	<modulo id="9" ref="0494">
+		<numerohoras>65</numerohoras>
+		<titulo>Empresa e iniciativa emprendedora </titulo>
+		<unidades_trabajo/>
+	</modulo>
+	<modulo id="10" ref="9009">
+		<numerohoras>40</numerohoras>
+		<titulo>Inglés técnico para grado superior</titulo>
+		<unidades_trabajo/>
+	</modulo>		
+	<modulo id="15" ref="0495">
+		<numerohoras>370</numerohoras>
+		<titulo>Formación en centros de trabajo</titulo>
+		<unidades_trabajo/>
+	</modulo>		
+	<modulo id="14" ref="0492">
+		<numerohoras>30</numerohoras>
+		<titulo>Proyecto de desarrollo de aplicaciones multiplataforma</titulo>
+		<unidades_trabajo/>
+	</modulo>		
+	<modulo id="11" ref="0490">
+		<numerohoras>80</numerohoras>
+		<titulo>Programación de servicios y procesos</titulo>
+		<unidades_trabajo/>
+	</modulo>
+	<modulo id="12" ref="0489">
+		<numerohoras>80</numerohoras>
+		<titulo>Programación multimedia y dispositivos móviles</titulo>
+		<unidades_trabajo/>
+	</modulo>
+	<modulo id="13" ref="0491">
+		<numerohoras>95</numerohoras>
+		<titulo>Sistemas de gestión empresarial</titulo>
+		<unidades_trabajo/>
+	</modulo>
+</modulos>

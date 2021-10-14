@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciclo titulo="DAM" tipo="C" familia="Informática y Comunicaciones">
+	<curso numero="1">
+		<modulo ref="0487"/>
+		<modulo ref="0373"/>
+		<modulo ref="0485"/>
+		<modulo ref="0484"/>
+		<modulo ref="0483"/>
+		<modulo ref="0493"/>
+	</curso>		
+	<curso numero="2">
+		<modulo ref="0486"/>
+		<modulo ref="0488"/>
+		<modulo ref="0494"/>
+		<modulo ref="9009"/>
+		<modulo ref="0495"/>
+		<modulo ref="0492"/>
+		<modulo ref="0490"/>
+		<modulo ref="0489"/>
+		<modulo ref="0491"/>
+	</curso>				
+</ciclo>

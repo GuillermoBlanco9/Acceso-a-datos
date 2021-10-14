@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instituto nombre="IES Tetuán de las Victorias" tipo="FP">
+	<ciclo titulo="DAM" tipo="C" familia="Informática y Comunicaciones">
+		<curso numero="2">
+			<modulo id="1" ref="0486">
+				<titulo>Acceso a Datos</titulo>
+				<numerohoras>120</numerohoras>
+				<unidades_trabajo>
+				</unidades_trabajo>
+			</modulo>
+			<modulo id="2" ref="0488">
+				<numerohoras>120</numerohoras>
+				<titulo>Diseño de interfaces</titulo>
+				<unidades_trabajo/>
+			</modulo>
+			<modulo id="3" ref="0494">
+				<numerohoras>65</numerohoras>
+				<titulo>Empresa e iniciativa emprendedora </titulo>
+				<unidades_trabajo/>
+			</modulo>
+			<modulo id="4" ref="0490">
+				<numerohoras>80</numerohoras>
+				<titulo>Programación de servicios y procesos</titulo>
+				<unidades_trabajo/>
+			</modulo>
+			<modulo id="2" ref="0489">
+				<numerohoras>80</numerohoras>
+				<titulo>Programación multimedia y dispositivos móviles</titulo>
+				<unidades_trabajo/>
+			</modulo>
+			<modulo id="2" ref="0491">
+				<numerohoras>95</numerohoras>
+				<titulo>Sistemas de gestión empresarial</titulo>
+				<unidades_trabajo/>
+			</modulo>
+		</curso>
+	</ciclo>
+</instituto>

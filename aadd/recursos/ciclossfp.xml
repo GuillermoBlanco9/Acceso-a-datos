@@ -1,0 +1,6 @@
+<ciclos>
+	<ciclo tipo="A">FP Básica<ciclo>
+	<ciclo tipo="B">FP Grado Medio<ciclo>
+	<ciclo tipo="C">FP Grado Superior<ciclo>
+	<ciclo tipo="D">Otros<ciclo>
+</ciclos>

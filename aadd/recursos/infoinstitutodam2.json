@@ -1,0 +1,66 @@
+{
+  "@nombre": "IES Tetuán de las Victorias",
+  "@tipo": "FP",
+  "ciclo": {
+    "@titulo": "DAM",
+    "curso": {
+      "@numero": "2",
+      "modulo": [
+        {
+          "@id": "1",
+          "@ref": "0486",
+          "titulo": "Acceso a Datos",
+          "numerohoras": "120",
+          "unidades_trabajo": [
+            
+          ]
+        },
+        {
+          "@id": "2",
+          "@ref": "0488",
+          "numerohoras": "120",
+          "titulo": "Diseño de interfaces",
+          "unidades_trabajo": [
+            
+          ]
+        },
+        {
+          "@id": "3",
+          "@ref": "0494",
+          "numerohoras": "65",
+          "titulo": "Empresa e iniciativa emprendedora",
+          "unidades_trabajo": [
+            
+          ]
+        },
+        {
+          "@id": "4",
+          "@ref": "0490",
+          "numerohoras": "80",
+          "titulo": "Programación de servicios y procesos",
+          "unidades_trabajo": [
+            
+          ]
+        },
+        {
+          "@id": "2",
+          "@ref": "0489",
+          "numerohoras": "80",
+          "titulo": "Programación multimedia y dispositivos móviles",
+          "unidades_trabajo": [
+            
+          ]
+        },
+        {
+          "@id": "2",
+          "@ref": "0491",
+          "numerohoras": "95",
+          "titulo": "Sistemas de gestión empresarial",
+          "unidades_trabajo": [
+            
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,85 @@
+<profesores>
+	<profesor id="P01">
+		<nombre>M.Pilar</nombre>
+		<apellido1>Álvarez</apellido1>
+		<apellido2>Sousa</apellido2>
+		<tutor/>
+		<modulos>
+			<modulo id="0494" principal="1"/>
+			<modulo id="0000" principal="1"/>
+		</modulos>
+	</profesor>
+
+	<profesor id="P02">
+		<nombre>Marta</nombre>
+		<apellido1>Bayona</apellido1>
+		<apellido2>Espín</apellido2>
+		<tutor/>
+		<modulos>
+			<modulo id="9009" principal="1"/>
+			<modulo id="0001" principal="1"/>
+		</modulos>
+	</profesor>
+	<profesor id="P03">
+		<nombre>Isidoro</nombre>
+		<apellido1>Nevares</apellido1>
+		<apellido2>Martín</apellido2>
+		<tutor>SMR1B</tutor>
+		<modulos>
+			<modulo id="0225" principal="1"/>
+			<modulo id="0486" principal="1"/>
+		</modulos>
+	</profesor>
+	<profesor id="P04">
+		<nombre>Esperanza Erik</nombre>
+		<apellido1>Bonillo</apellido1>
+		<apellido2>Valero</apellido2>
+		<tutor>DAM1</tutor>
+		<modulos>
+			<modulo id="0490" principal="1"/>
+			<modulo id="0489" principal="1"/>
+		</modulos>
+	</profesor>
+	<profesor id="P05">
+		<nombre>Miguel Ángel</nombre>
+		<apellido1>Riballo</apellido1>
+		<apellido2>Arenas</apellido2>
+		<tutor>DAM2</tutor>
+		<modulos>
+			<modulo id="0495" principal="1"/>
+			<modulo id="0492" principal="1"/>			
+			<modulo id="0491" principal="1"/>
+		</modulos>
+	</profesor>
+	<profesor id="P06">
+		<nombre>Daniel Gregori</nombre>
+		<apellido1>Medrano</apellido1>
+		<apellido2>Izquierdo</apellido2>
+		<tutor>DAM2</tutor>
+		<modulos>
+			<modulo id="0488" principal="1"/>
+			<modulo id="0002" principal="1"/>
+		</modulos>
+	</profesor>
+	<profesor id="P07">
+		<nombre>Alfonso Carlos</nombre>
+		<apellido1>Navajas</apellido1>
+		<apellido2>Martínez</apellido2>
+		<tutor>ASIR1A</tutor>
+		<modulos>
+			<modulo id="0484" principal="1"/>
+			<modulo id="0003" principal="1"/>
+		</modulos>
+	</profesor>
+	<profesor id="P08">
+		<nombre>Eva Concepción</nombre>
+		<apellido1>López</apellido1>
+		<apellido2>Jiménez</apellido2>
+		<tutor>ASIR2A</tutor>
+		<modulos>
+			<modulo id="0485" principal="1"/>
+			<modulo id="0004" principal="1"/>
+		</modulos>
+	</profesor>	
+	
+</profesores>
