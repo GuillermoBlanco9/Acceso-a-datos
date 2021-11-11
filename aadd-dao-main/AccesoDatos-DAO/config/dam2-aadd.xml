@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-15" standalone="yes"?>
+<configuracion>
+	<basedatos>aadd1</basedatos>
+	<usuario>aadd</usuario>
+	<clave>micontrasena</clave>
+	<servidor>localhost</servidor>
+	<puerto>3306</puerto>
+	<usuariodaoimp>es.iestetuan.dam2.dao.fictex.UsuarioFicTextDAO</usuariodaoimp>
+	<rutaFichero>datos/usuarios.txt</rutaFichero>	
+</configuracion>

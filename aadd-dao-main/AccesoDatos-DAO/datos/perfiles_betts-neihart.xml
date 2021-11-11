@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modelo-aprendizaje id="0" clave="ByN">
+	<descripcion>Modelos de los perfiles de alta capacidad de Betts y Neihart</descripcion>
+	<detalle>Información para detallar el modelo</detalle>
+	<!-- Perfil I. Exitoso-->
+	<perfil id="0001" tipo="I. Exitoso" orden="1">
+		<descripcion>Individuos con alto rendimiento; son los más fácilmente identificables como de altas capacidades.</descripcion>
+		<general>
+			<info>Individuos con alta capacidad que muestran un rendimiento satisfactorio (académico, deportivo, artístico…).</info>
+			<info>Los individuos de este grupo son aquellos que pueden ser más fácilmente identificables; habitualmente cuando se habla del ámbito académico.</info>
+		</general>
+		<sentimientos>
+			<info>Suficiente.</info>
+			<info>Dependiente.</info>
+			<info>Buen autoconcepto académico.</info>
+			<info>Miedo al fracaso.</info>
+			<info>Motivación extrínseca.</info>
+			<info>Autocrítico.</info>
+			<info>Trabaja para la nota.</info>
+			<info>Inseguro/a sobre el futuro.</info>
+			<info>Ansioso/a por la aprobación.</info>
+			<info>Vista de la inteligencia como una cosa real.</info>				
+		</sentimientos>
+		<comportamientos>
+			<info>Acepta y cumple con lo que se le propone.</info>
+			<info>Busca la aprobación de la autoridad competente.</info>
+			<info>Consigue logros.</info>
+			<info>Elige actividades con las que se siente seguro.</info>
+			<info>Evita los riesgos.</info>
+			<info>No va más allá de aquello que se le pide.</info>
+			<info>Obtiene buenas notas/rendimiento (académico, deportivo, artístico…).</info>
+			<info>Se convierte en un consumidor de conocimiento.</info>
+		</comportamientos>
+		<necesidades>
+			<info>Ser desafiado.</info>
+			<info>Conocer sus déficits.</info>
+			<info>Tomar riesgos.</info>
+			<info>Habilidades de asertividad.</info>
+			<info>Desarrollo de la creatividad.</info>
+			<info>Vista incremental de la inteligencia (mentalidad decrecimiento).</info>
+			<info>Autoconocimiento.</info>
+			<info>Habilidades de aprendizaje independiente.</info>
+		</necesidades>
+		<reconocimiento>
+			<info>Apreciado/a por la autoridad competente.</info>
+			<info>Admirado/a por los pares.</info>
+			<info>Generalmente gustado/a y aceptado/a por padres.</info>
+			<info>Sobreestima sus capacidades.</info>
+			<info>Cree que ellos tendrán éxito por sí mismos.</info>
+		</reconocimiento>
+		<identificacion>
+			<info>Uso de criterios múltiples.</info>
+			<info>Notas.</info>
+			<info>Puntajes de prueba estandarizados.</info>
+			<info>Pruebas individuales de CI.</info>
+			<info>Nombramientos de maestros.</info>
+			<info>Nominaciones de padres.</info>
+			<info>Nominaciones de iguales (amigos, compañeros, colegas…).</info>
+		</identificacion>		
+		<ayuda-interna>
+			<info>Los padres deben dejarlo ir.</info>
+			<info>Independencia.</info>
+			<info>Libertad para tomar decisiones.</info>
+			<info>Experiencias de toma de riesgos.</info>
+			<info>Permita que el individuo se angustie.</info>
+			<info>Afirmar la capacidad del individuo para sobrellevar desafíos.</info>
+		</ayuda-interna>
+		<ayuda-externa>
+			<info>Aceleración de asignatura y nivel/curso.</info>
+			<info>Necesita algo más que AP, IB y Honores.</info>
+			<info>Tiempo para el plan de estudios personal.</info>
+			<info>Actividades que le hagan salir de la zona de confort.</info>
+			<info>Desarrollo de habilidades de aprendizaje independiente.</info>
+			<info>Estudios en profundidad.</info>
+			<info>Mentoría.</info>
+			<info>Coaching cognitivo.</info>
+			<info>Tiempo con pares intelectuales.</info>
+		</ayuda-externa>
+	</perfil>
+	<!-- Perfil II. Creativo divergente -->		
+	<perfil id="0002" tipo="II. Creativo divergente" orden="2">
+		<descripcion>Individuos en los que la creatividad puede parecer rebeldía.</descripcion>
+		<general>
+			<info>Individuos con alta capacidad que se muestran bien desafiantes o creativos.</info>
+			<info>Los individuos de este grupo son difícilmente identificables si se desconocen las características de los individuos con altas capacidades.</info>
+			<info>Presentan un alto nivel de creatividad, se suelen manifestar como individuos obstinados, indiscretos o sarcásticos.</info>
+			<info>A menudo cuestionan a la autoridad competente y se muestran hacia él de manera desafiante.</info>
+		</general>
+		<sentimientos>
+			<info>Muy creativo.</info>
+			<info>Aburrido y frustrado.</info>
+			<info>Autoestima fluctuante.</info>
+			<info>Impaciente y defensivo.</info>
+			<info>Gran sensibilidad.</info>
+			<info>Incierto sobre los roles sociales.</info>
+			<info>Más vulnerable psicológicamente.</info>
+			<info>Fuerte motivación para seguir convicciones internas.</info>
+			<info>Quiere corregir los errores.</info>
+			<info>Alta tolerancia a la ambigüedad.</info>
+			<info>Energía alta.</info>
+		</sentimientos>
+		<comportamientos>
+			<info>Cuestiona reglas y políticas.</info>
+			<info>Defiende sus convicciones.</info>
+			<info>Emocionalmente responsable.</info>
+			<info>Es honesto y directo.</info>
+			<info>Expresa creatividad.</info>
+			<info>Muestra perseverancia en el área (si ésta es de su interés, le apasiona).</info>
+			<info>Muestran espontaneidad.</info>
+			<info>Puede entrar en conflicto con sus compañeros.</info>
+			<info>Puede tener un pobre autocontrol.</info>
+			<info>Se muestra desafiante y cuestiona la autoridad.</info>
+		</comportamientos>
+		<necesidades>
+			<info>Estar conectado/a con los demás.</info>
+			<info>Aprender el tacto, flexibilidad, autoconciencia y autocontrol.</info>
+			<info>Apoyo a la creatividad.</info>
+			<info>Sistemas contractuales.</info>
+			<info>Menos presión para ajustarse.</info>
+			<info>Habilidades interpersonales para afirmar/ratificar a los demás.</info>
+			<info>Estrategias para hacer frente a posibles vulnerabilidades psicológicas.</info>
+		</necesidades>
+		<reconocimiento>
+			<info>Estar conectado/a con los demás.</info>
+			<info>Aprender el tacto, flexibilidad, autoconciencia y autocontrol.</info>
+			<info>Apoyo a la creatividad.</info>
+			<info>Sistemas contractuales.</info>
+			<info>Menos presión para ajustarse.</info>
+			<info>Habilidades interpersonales para afirmar/ratificar a los demás.</info>
+			<info>Estrategias para hacer frente a posibles vulnerabilidades psicológicas.</info>
+		</reconocimiento>
+		<identificacion>
+			<info>Preguntar: ¿De qué maneras expresas la Creatividad?… En vez de ¿cómo/cuánto de Creativo eres?</info>
+			<info>Usar medidas objetivas específicas del dominio.</info>
+			<info>Enfocarse en el potencial Creativo en lugar de en el logro.</info>
+		</identificacion>		
+		<ayuda-interna>
+			<info>Respeto por sus objetivos/metas.</info>
+			<info>Tolerar niveles más altos de desviación.</info>
+			<info>Permitirles perseguir intereses (pasiones).</info>
+			<info>Ofrecer un modelo de comportamiento apropiado.</info>
+			<info>Compartir proyectos familiares.</info>
+			<info>Comunicar confianza en sus capacidades.</info>
+			<info>Afirmar sus fortalezas.</info>
+			<info>Reconocer la vulnerabilidad psicológica e intervenir cuando sea necesario.</info>
+		</ayuda-interna>
+		<ayuda-externa>
+			<info>Flexibilidad en cuanto a la tolerancia.</info>
+			<info>Recompensar el nuevo pensamiento.</info>
+			<info>Colocación con docentes apropiados.</info>
+			<info>Comunicación directa y clara.</info>
+			<info>Dar espacio para la expresión de los sentimientos.</info>
+			<info>Entrenamiento específico en el área de dominio.</info>
+			<info>Permitir no conformidad.</info>
+			<info>Apoyo a través de Mentoría.</info>
+			<info>Instrucción directa en habilidades interpersonales.</info>
+			<info>Entrenador para práctica deliberada.</info>
+		</ayuda-externa>
+	</perfil>
+	<!-- Perfil III. Invisible -->		
+	<perfil id="0003" tipo="III. Invisible" orden="3">
+		<descripcion>Individuos que ocultan su talento.</descripcion>
+		<general>
+			<info>Individuos con alta capacidad que ocultan o niegan su talento.</info>
+			<info>Los individuos de este grupo no son fácilmente identificables.</info>
+			<info>Habitualmente entraban en esta tipología niñas/adolescentes/mujeres.</info>
+			<info>También se incluyen las personas con altas capacidades pertenecientes a minorías (étnica, racial, clase socio-económico, religiosa, identidad sexual).</info>
+			<info>Se produce un conflicto entre conseguir logros y pertenecer; es visto como una traición de su grupo social.</info>
+			<info>Pueden presentar una baja autoestima o incluso sentir ansiedad. Esto es debido al conflicto entre el éxito social y el académico.</info>
+			<info>Crean crisis y generan disrupciones.</info>
+			<info>Son individuos que tienen habilidades para contar aquello que los otros quieren oír.</info>
+		</general>
+		<sentimientos>
+			<info>Deseo de pertenecer socialmente.</info>
+			<info>Se siente inseguro y presionado.</info>
+			<info>Tendencia a sentirse en conflicto, culpable e inseguro.</info>
+			<info>Inseguro de su derecho a expresar sus emociones.</info>
+			<info>Disminución del sentido de sí mismo.</info>
+			<info>Ambivalente sobre el logro.</info>
+			<info>Internaliza y personaliza ambigüedades y conflictos sociales.</info>
+			<info>Ve algunos comportamientos de logro como traición a su grupo social.</info>
+		</sentimientos>
+		<comportamientos>
+			<info>Devalúa, o niega su talento ( tuve suerte, estaba en el lugar adecuado…).</info>
+			<info>No conectado con el maestro o la clase.</info>
+			<info>Queda fuera de los grupos de altas capacidades o talentoso así como de clases avanzadas.</info>
+			<info>Rechaza los desafíos.</info>
+			<info>Se muestra inseguro o ansioso.</info>
+			<info>Se mueve de un grupo de compañeros a otro.</info>
+			<info>Trata de agradar a los demás.</info>
+		</comportamientos>
+		<necesidades>
+			<info>Libertad para tomar decisiones.</info>
+			<info>Los conflictos deben hacerse explícitos.</info>
+			<info>Aprender a cambiar el lenguaje con que se expresan ( relacionado con su devaluación).</info>
+			<info>Red de grupo de compañeros/as con altas capacidades.</info>
+			<info>Ayuda/Soporte para potenciar sus capacidades.</info>
+			<info>Mostrar modelos de roles que están más allá de culturas (Martin Luther King, Amaya Valdemoro, Madamme Curie…).</info>
+			<info>Auto comprensión y aceptación.</info>
+			<info>Ser escuchados (una audiencia para escuchar lo que tienen que decir ).</info>
+		</necesidades>
+		<reconocimiento>
+			<info>Vistos como líderes o bien no son reconocidos.</info>
+			<info>Vistos entre promedio y exitoso.</info>
+			<info>Percibido como obediente.</info>
+			<info>Vistos como callados o tímidos.</info>
+			<info>Vistos como poco dispuesto a arriesgar.</info>
+			<info>Vistos como resistente.</info>
+		</reconocimiento>
+		<identificacion>
+			<info>Mediante entrevistas.</info>
+			<info>Nominaciones de padres (ser cautelosos).</info>
+			<info>Nombramientos de autoridad competente (docentes, dirección…).</info>
+			<info>Cautela con las nominaciones de los compañeros.</info>
+			<info>Rendimiento demostrado.</info>
+			<info>Medidas de potencial creativo.</info>
+			<info>Medidas no verbales de inteligencia.</info>
+		</identificacion>		
+		<ayuda-interna>
+			<info>Normaliza su disonancia (asociado a diversidad).</info>
+			<info>Planificación universitaria y profesional.</info>
+			<info>Proporcionar modelos de roles con altas capacidades.</info>
+			<info>Modelo de aprendizaje permanente.</info>
+			<info>Ofrecer libertad para tomar decisiones.</info>
+			<info>Normaliza la experiencia en la familia.</info>
+			<info>No comparar con hermanos.</info>
+			<info>Brindar intermediación cultural.</info>
+			<info>Crear reconocimiento multicultural.</info>
+		</ayuda-interna>
+		<ayuda-externa>
+			<info>Enmarcar los conceptos como fenómenos sociales.</info>
+			<info>Entornos de aprendizaje acogedores.</info>
+			<info>Proporcionar modelos a seguir.</info>
+			<info>Ayuda a desarrollar grupos de apoyo.</info>
+			<info>Discusiones abiertas sobre clase, racismo, sexismo.</info>
+			<info>Intermediación cultural.</info>
+			<info>Instrucción directa de habilidades sociales.</info>
+			<info>Enseñe el plan de estudios oculto.</info>
+			<info>Proporcionar planificación universitaria.</info>
+			<info>Discuta los costos del éxito ( concienciar sobre lo que supone).</info>
+		</ayuda-externa>
+	</perfil>
+	<!-- Perfil IV. En Riesgo -->		
+	<perfil id="0004" tipo="IV. En Riesgo" orden="4">
+		<descripcion>Individuos con tendencia al bajo rendimiento por desmotivación.</descripcion>
+		<general>
+			<info>Individuos con alta capacidad que ofrecen un bajo rendimiento académico/laboral debido a desmotivación.</info>
+			<info>Tendencia al abandono escuela; en caso más extremos puede darse abuso sustancias estupefacientes, comportamiento criminal, suicidio, agresión, miembros de bandas.</info>
+			<info>Dificultades emocionales y de comportamiento.</info>
+			<info>Desajuste entre capacidades y necesidades (déficits en sus habilidades).</info>
+			<info>Individuos cuyas necesidades de seguridad y estructura no han sido satisfechas.</info>
+			<info>Inestabilidad en el entorno familiar.</info>
+			<info>Actitudes negativas hacia la autoridad.</info>
+			<info>Pobre ajuste social.</info>
+			<info>Comunicación insuficiente entre casa y la escuela.</info>
+			<info>En la adolescencia muestran enfado, resentimiento.</info>
+			<info>Suelen entrar en programas preventivos y terapéuticos.</info>
+		</general>
+		<sentimientos>
+			<info>Resentido y enojado.</info>
+			<info>Deprimido.</info>
+			<info>Imprudente y manipulador.</info>
+			<info>Pobre autoconcepto.</info>
+			<info>Defensivo.</info>
+			<info>Expectativas irrealistas.</info>
+			<info>No es aceptado.</info>
+			<info>Resistente a la autoridad.</info>
+			<info>No motivado por recompensas dirigidas por la autoridad competente.</info>
+			<info>Es un subgrupo con tendencia antisocial.</info>
+		</sentimientos>
+		<comportamientos>
+			<info>Busca la emoción.</info>
+			<info>Crea armonía en las relaciones.</info>
+			<info>Crea crisis y causa interrupciones.</info>
+			<info>Produce trabajo con falta de consistencia.</info>
+			<info>Es crítico consigo mismo y con los demás.</info>
+			<info>Expresa creatividad.</info>
+			<info>Intermitencia (asistencia, compañía).</info>
+			<info>Le interesa más lo externo.</info>
+			<info>Obtiene mala notas/mal rendimiento académico.</info>
+			<info>Tiende a autoaislarse.</info>
+		</comportamientos>
+		<necesidades>
+			<info>Seguridad y estructura</info>
+			<info>Un ambiente «alternativo».</info>
+			<info>Un programa individualizado.</info>
+			<info>Confrontación y responsabilidad.</info>
+			<info>Disponer de alternativas.</info>
+			<info>Asesoramiento profesional.</info>
+			<info>Dirección y objetivos a corto plazo.</info>
+		</necesidades>
+		<reconocimiento>
+			<info>Visto como problemático o irresponsable.</info>
+			<info>Visto como rebelde.</info>
+			<info>Se les puede tener miedo.</info>
+			<info>Se puede tener miedo por ellos.</info>
+			<info>Los adultos se sienten impotentes para ayudarlos.</info>
+			<info>Los adultos pueden estar enojados con ellos.</info>
+			<info>Los compañeros son críticos.</info>
+		</reconocimiento>
+		<identificacion>
+			<info>Entrevistas.</info>
+			<info>Audiciones.</info>
+			<info>Medidas no verbales de inteligencia.</info>
+			<info>Nominaciones de padres.</info>
+			<info>Nombramientos de maestros.</info>
+			<info>Prueba individual de CI.</info>
+			<info>Subtests de logro.</info>
+		</identificacion>		
+		<ayuda-interna>
+			<info>Buscar consejero para la familia.</info>
+			<info>Evitar las luchas de poder.</info>
+			<info>Implicación en actividades extracurriculares.</info>
+			<info>Evaluar el comportamiento peligroso.</info>
+			<info>Mantener el diálogo abierto.</info>
+			<info>Importancia de responsabilizarse de los actos propios.</info>
+			<info>Minimizar castigos.</info>
+			<info>Comunicar confianza en la capacidad de superar obstáculos.</info>
+			<info>Preservar las relaciones.</info>
+		</ayuda-interna>
+		<ayuda-externa>
+			<info>Mantener expectativas altas (no rebajarlas).</info>
+			<info>Realizar pruebas de diagnóstico.</info>
+			<info>Trabajo con habilidades de estudio no tradicionales.</info>
+			<info>Estudios en profundidad y mentorías.</info>
+			<info>Entrenamiento académico.</info>
+			<info>Visitas a domicilio.</info>
+			<info>Promover la resiliencia.</info>
+			<info>Discuta opciones secundarias.</info>
+			<info>Ofrecer Apoyos/Recomendaciones provocativos.</info>
+		</ayuda-externa>
+	</perfil>
+	<!-- Perfil V. Doble/Múltiple Excepcionalidad -->		
+	<perfil id="0005" tipo="V. Doble/Múltiple Excepcionalidad" orden="5">
+		<descripcion>Individuos que presentan altas capacidades junto a otras necesidades.</descripcion>
+		<general>
+			<info>Individuos con alta capacidad acompañadas de necesidades educativas de aprendizaje.</info>
+			<info>Los individuos de este grupo no son fácilmente identificables.</info>
+			<info>Tienen la percepción de que ha fallado en la escuela. Se ven como un fracaso.</info>
+			<info>Muestran claras dificultades socio-emocionales; más que en otros grupos.</info>
+			<info>Importante trabajar con ellos antes de los 9-10 años.</info>
+			<info>60% of chicos con TDAH poseen también algún tipo de DEA (Dificultades específicas de Aprendizaje).</info>
+			<info>Trabajar con sus fortalezas mientras se les acompaña en sus debilidades.</info>
+			<info>Se consiguen logros a largo plazo o logros a nivel de competencias Sociales y Emocionales (no tanto a nivel académico o de pensamiento).</info>
+		</general>
+		<sentimientos>
+			<info>Indefensión aprendida</info>
+			<info>Intensa frustración y enojo.</info>
+			<info>Trastornos del estado de ánimo.</info>
+			<info>Propenso al desaliento.</info>
+			<info>Trabaja para mantener/resistir (no proactivo).</info>
+			<info>Pobre autosuficiencia académica.</info>
+			<info>No se ven a sí mismos como exitosos.</info>
+			<info>Pobre autoconcepto académico.</info>
+			<info>No encuentra su lugar (no sabe a dónde pertenecer).</info>
+		</sentimientos>
+		<comportamientos>
+			<info>Demuestra falta de consistencia en el trabajo.</info>
+			<info>Disfruta de la novedad y la complejidad.</info>
+			<info>Es buen solucionador de problemas.</info>
+			<info>Hace conexiones fácilmente.</info>
+			<info>Puede parecer lento en el procesamiento de la información.</info>
+			<info>Posee algunos aspectos del funcionamiento social / emocional más propios de individuos más jóvenes (disincronías).</info>
+			<info>Notas/ rendimiento académico medio-bajo.</info>
+			<info>Piensa conceptualmente.</info>
+			<info>Problemas de comportamiento.</info>
+			<info>Puede no ser capaz de hacer frente al grupo de compañeros dotados.</info>
+			<info>Puede ser disruptivo o quedarse fuera de la tarea.</info>
+			<info>Tiende a ser desorganizado.</info>
+		</comportamientos>
+		<necesidades>
+			<info>Énfasis en las fortalezas.</info>
+			<info>Estrategias de afrontamiento.</info>
+			<info>Desarrollo de habilidades.</info>
+			<info>Monitoreo de trastornos adicionales, especialmente TDAH.</info>
+			<info>Aprender a perseverar.</info>
+			<info>Ambiente que desarrolla fortalezas.</info>
+			<info>Aprender a autogestionarse.</info>
+		</necesidades>
+		<reconocimiento>
+			<info>Visto como raro.</info>
+			<info>Subestimado por su potencial.</info>
+			<info>Visto como impotente.</info>
+			<info>No es percibido como no perteneciente a altas capacidades.</info>
+			<info>Percibido como que requiere una gran cantidad de estructura mental.</info>
+			<info>Visto solo por la discapacidad/dificultad en el aprendizaje.</info>
+			<info>Requiere demasiadas modificaciones debido a la adaptación (para las necesidades asociadas a otro/s déficit/s).</info>
+		</reconocimiento>
+		<identificacion>
+			<info>Medida del funcionamiento actual de la clase.</info>
+			<info>Calificación de pruebas de consecución/logro.</info>
+			<info>Evaluación basada en el currículo.</info>
+			<info>Examinar el rendimiento a lo largo del tiempo (importancia del proceso frente al resultado).</info>
+			<info>Buscar patrones que combinen rendimiento decreciente con evidencia de capacidad superior.</info>
+			<info>No confiar en el análisis de dispersión de CI ni en el análisis de discrepancia.</info>
+		</identificacion>		
+		<ayuda-interna>
+			<info>Enfocarse en las fortalezas al tiempo que atiende la dificultad/discapacidad.</info>
+			<info>Desarrollar voluntad para tener éxito.</info>
+			<info>Reconocer y afirmar capacidades talentosas.</info>
+			<info>Desafío en áreas de fortaleza.</info>
+			<info>Ofrecer oportunidades de asumir riesgos.</info>
+			<info>Asumir que la universidad es una posibilidad.</info>
+			<info>Defensa en la escuela.</info>
+			<info>Participación familiar.</info>
+			<info>Nutrir el autocontrol.</info>
+			<info>Enseñar cómo establecer y alcanzar metas realistas.</info>
+		</ayuda-interna>
+		<ayuda-externa>
+			<info>Ofrecer desafíos en el área de fortaleza como primera prioridad.</info>
+			<info>Aceleración en áreas de fortalezas.</info>
+			<info>Espacios/Adaptaciones para la dificultad/discapacidad.</info>
+			<info>Pregunte, «¿qué se necesitará para que este individuo tenga éxito aquí?».</info>
+			<info>Instrucción directa en estrategias de autorregulación.</info>
+			<info>Dar tiempo para estar con los compañero de altas capacidades.</info>
+			<info>Enseñar autodefensa.</info>
+			<info>Enseñar la configuración de objetivos SMART.</info>
+		</ayuda-externa>
+	</perfil>
+	<!-- Perfil VI. Autónomo en Aprendizaje -->		
+	<perfil id="0006" tipo="Perfil VI. Autónomo en Aprendizaje" orden="6">
+		<descripcion>Individuos que aprenden y resuelven tareas de forma autónoma.</descripcion>
+		<general>
+			<info>Individuos que pueden dirigir su aprendizaje de forma autónoma</info>
+			<info>Un individuo de este tipo exhibe algunas características de éxito.</info>
+			<info>El aprendizaje puede no estar dirigido a objetivos académicos.</info>
+			<info>En lugar de realizar solo el trabajo requerido, crea oportunidades para sí mismo.</info>
+			<info>Autodirigido, independiente y generalmente seguro, este individuo puede tomar riesgos académicos apropiados.</info>
+			<info>Puede asumir roles de liderazgo, pero también puede sufrir aislamiento.</info>
+		</general>
+		<sentimientos>
+			<info>Seguro de sí mismo.</info>
+			<info>Autoaceptación.</info>
+			<info>Mantiene una vista incremental de las habilidades (mentalidad de crecimiento).</info>
+			<info>Optimista.</info>
+			<info>Intrínsecamente motivado.</info>
+			<info>Ambicioso y emocionado.</info>
+			<info>Puede no ver “lo académico” como una de sus más altas prioridades.</info>
+			<info>Dispuesto a fallar y aprender de ello.</info>
+			<info>Muestra tolerancia y respeto por los demás.</info>
+		</sentimientos>
+		<comportamientos>
+			<info>Busca el desafío.</info>
+			<info>Defiende sus convicciones.</info>
+			<info>Es autodidacta.</info>
+			<info>Es flexible.</info>
+			<info>Establece objetivos SMART.</info>
+			<info>Expresa creatividad.</info>
+			<info>Funciona independientemente.</info>
+			<info>Habilidades sociales apropiadas.</info>
+			<info>Posee comprensión y aceptación de sí mismo.</info>
+			<info>Productor de conocimiento.</info>
+			<info>Se autorregula.</info>
+			<info>Se involucra en áreas que le apasionan.</info>
+		</comportamientos>
+		<necesidades>
+			<info>Más apoyo, no menos (como pueda aparentar).</info>
+			<info>Recomendaciones para nuevas direcciones y aumentar la independencia.</info>
+			<info>Comentarios sobre fortalezas y posibilidades.</info>
+			<info>Facilitación de crecimiento continuo.</info>
+			<info>Apoyo para tomar riesgos.</info>
+			<info>Relaciones de facilitación continuas.</info>
+			<info>Llegar a ser más hábil en la gestión de sí mismo.</info>
+			<info>Equipo de apoyo.</info>
+		</necesidades>
+		<reconocimiento>
+			<info>Admirado y aceptado.</info>
+			<info>Visto como capaz y responsable por los padres.</info>
+			<info>Influencias positivas.</info>
+			<info>Exitoso en diversos ambientes.</info>
+			<info>Psicológicamente saludable.</info>
+			<info>Relaciones positivas entre iguales.</info>
+		</reconocimiento>
+		<identificacion>
+			<info>Demostrar rendimiento.</info>
+			<info>Atender a los productos generados.</info>
+			<info>Nominaciones.</info>
+			<info>Atender al Portafolios.</info>
+			<info>Entrevistas.</info>
+			<info>Puntuaciones de tests estandarizados.</info>
+			<info>Premios/galardones obtenidos.</info>
+		</identificacion>		
+		<ayuda-interna>
+			<info>Abogar por el individuo tanto en el ámbito académico/laboral y en la comunidad.</info>
+			<info>Proporcionar oportunidades relacionadas con áreas de pasión.</info>
+			<info>Permitir amigos de todas las edades.</info>
+			<info>Eliminar restricciones de tiempo y espacio para el aprendizaje.</info>
+			<info>Ayudarlos a construir un equipo de apoyo.</info>
+			<info>Incluirlos en las pasiones de los padres.</info>
+			<info>Incluirlos en la toma de decisiones familiares.</info>
+			<info>Escucha.</info>
+			<info>No interferir en sus método/formas/maneras (mantenerse al margen).</info>
+		</ayuda-interna>
+		<ayuda-externa>
+			<info>Permitir el desarrollo de un plan de estudio integrado a largo plazo.</info>
+			<info>Eliminar restricciones de tiempo y espacio.</info>
+			<info>Desarrollar estudios múltiples, relacionados y en profundidad, incluyendo mentores.</info>
+			<info>Gran variedad de opciones de flexibilización/aceleración.</info>
+			<info>Mentores y agentes culturales.</info>
+			<info>Renunciar a las políticas y regulaciones escolares tradicionales.</info>
+			<info>No interferir en sus método/formas/maneras (mantenerse al margen).</info>
+			<info>Ayudarlos a enfrentar los costos sociales y psicológicos del éxito.</info>
+		</ayuda-externa>
+	</perfil>		
+</modelo-aprendizaje>

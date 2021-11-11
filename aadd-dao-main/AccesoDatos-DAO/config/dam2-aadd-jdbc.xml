@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-15" standalone="yes"?>
+<configuracion>
+	<servidorbbdd nombre="MySQL para AADD" id="1">
+		<basedatos>aadd1</basedatos>
+		<usuario>aadd</usuario>
+		<clave>micontrasena</clave>
+		<servidor>localhost</servidor>
+		<puerto>3306</puerto>
+	</servidorbbdd>
+	<servidorbbdd nombre="PostgreSQL para AADD" id="2">
+		<basedatos>aadd1</basedatos>
+		<usuario>aadd</usuario>
+		<clave>micontrasena</clave>
+		<servidor>localhost</servidor>
+		<puerto>5432</puerto>
+	</servidorbbdd>	
+</configuracion>

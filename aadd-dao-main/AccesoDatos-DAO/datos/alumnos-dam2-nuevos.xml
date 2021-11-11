@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<usuarios>
+    <usuario id="171">
+        <nombre> Julia</nombre>
+		<apellido1> Sanz</apellido1>
+		<apellido2> Martín</apellido2>
+    </usuario>
+    <usuario id="380">
+        <nombre>Francisco</nombre>
+		<apellido1>Domínguez</apellido1>
+		<apellido2>Sánchez</apellido2>
+    </usuario>
+    <usuario id="619">
+        <nombre>Valery</nombre>
+		<apellido1>Martin</apellido1>
+		<apellido2/>
+    </usuario>
+
+</usuarios>

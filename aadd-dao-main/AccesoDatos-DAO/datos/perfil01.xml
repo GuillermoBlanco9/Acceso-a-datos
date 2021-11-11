@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Perfil I. Exitoso-->
+<perfil id="0001" tipo="I. Exitoso" orden="1">
+	<descripcion>Individuos con alto rendimiento; son los más fácilmente identificables como de altas capacidades.</descripcion>
+	<general>
+		<info>Individuos con alta capacidad que muestran un rendimiento satisfactorio (académico, deportivo, artístico…).</info>
+		<info>Los individuos de este grupo son aquellos que pueden ser más fácilmente identificables; habitualmente cuando se habla del ámbito académico.</info>
+	</general>	
+</perfil>

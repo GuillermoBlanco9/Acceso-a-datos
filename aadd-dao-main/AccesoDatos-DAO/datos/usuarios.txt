@@ -1,0 +1,5 @@
+ID, NICKNAME, EMAIL
+001, miguelar, miguelangel.riballo@iestetuan.es 
+002,danielm, daniel.medrano@iestetuan.es 
+004, isidoronm, isidoro.nevares@iestetuan.es
+003, esperanzab,esperanza.bonillo@iestetuan.es 

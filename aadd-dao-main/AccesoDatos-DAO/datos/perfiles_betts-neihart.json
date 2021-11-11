@@ -1,0 +1,520 @@
+{
+   "id": "0",
+   "clave": "ByN",
+   "descripcion": "Modelos de los perfiles de alta capacidad de Betts y Neihart",
+   "detalle": "Información para detallar el modelo",
+   "perfil": [
+      {
+         "id": "0001",
+         "tipo": "I. Exitoso",
+         "orden": "1",
+         "descripcion": "Individuos con alto rendimiento; son los más fácilmente identificables como de altas capacidades.",
+         "general": [
+            "Individuos con alta capacidad que muestran un rendimiento satisfactorio (académico, deportivo, artístico…).",
+            "Los individuos de este grupo son aquellos que pueden ser más fácilmente identificables; habitualmente cuando se habla del ámbito académico."
+         ],
+         "sentimientos": [
+            "Suficiente.",
+            "Dependiente.",
+            "Buen autoconcepto académico.",
+            "Miedo al fracaso.",
+            "Motivación extrínseca.",
+            "Autocrítico.",
+            "Trabaja para la nota.",
+            "Inseguro/a sobre el futuro.",
+            "Ansioso/a por la aprobación.",
+            "Vista de la inteligencia como una cosa real."
+         ],
+         "comportamientos": [
+            "Acepta y cumple con lo que se le propone.",
+            "Busca la aprobación de la autoridad competente.",
+            "Consigue logros.",
+            "Elige actividades con las que se siente seguro.",
+            "Evita los riesgos.",
+            "No va más allá de aquello que se le pide.",
+            "Obtiene buenas notas/rendimiento (académico, deportivo, artístico…).",
+            "Se convierte en un consumidor de conocimiento."
+         ],
+         "necesidades": [
+            "Ser desafiado.",
+            "Conocer sus déficits.",
+            "Tomar riesgos.",
+            "Habilidades de asertividad.",
+            "Desarrollo de la creatividad.",
+            "Vista incremental de la inteligencia (mentalidad decrecimiento).",
+            "Autoconocimiento.",
+            "Habilidades de aprendizaje independiente."
+         ],
+         "reconocimiento": [
+            "Apreciado/a por la autoridad competente.",
+            "Admirado/a por los pares.",
+            "Generalmente gustado/a y aceptado/a por padres.",
+            "Sobreestima sus capacidades.",
+            "Cree que ellos tendrán éxito por sí mismos."
+         ],
+         "identificacion": [
+            "Uso de criterios múltiples.",
+            "Notas.",
+            "Puntajes de prueba estandarizados.",
+            "Pruebas individuales de CI.",
+            "Nombramientos de maestros.",
+            "Nominaciones de padres.",
+            "Nominaciones de iguales (amigos, compañeros, colegas…)."
+         ],
+         "ayuda-interna": [
+            "Los padres deben dejarlo ir.",
+            "Independencia.",
+            "Libertad para tomar decisiones.",
+            "Experiencias de toma de riesgos.",
+            "Permita que el individuo se angustie.",
+            "Afirmar la capacidad del individuo para sobrellevar desafíos."
+         ],
+         "ayuda-externa": [
+            "Aceleración de asignatura y nivel/curso.",
+            "Necesita algo más que AP, IB y Honores.",
+            "Tiempo para el plan de estudios personal.",
+            "Actividades que le hagan salir de la zona de confort.",
+            "Desarrollo de habilidades de aprendizaje independiente.",
+            "Estudios en profundidad.",
+            "Mentoría.",
+            "Coaching cognitivo.",
+            "Tiempo con pares intelectuales."
+         ]
+      },
+      {
+         "id": "0002",
+         "tipo": "II. Creativo divergente",
+         "orden": "2",
+         "descripcion": "Individuos en los que la creatividad puede parecer rebeldía.",
+         "general": [
+            "Individuos con alta capacidad que se muestran bien desafiantes o creativos.",
+            "Los individuos de este grupo son difícilmente identificables si se desconocen las características de los individuos con altas capacidades.",
+            "Presentan un alto nivel de creatividad, se suelen manifestar como individuos obstinados, indiscretos o sarcásticos.",
+            "A menudo cuestionan a la autoridad competente y se muestran hacia él de manera desafiante."
+         ],
+         "sentimientos": [
+            "Muy creativo.",
+            "Aburrido y frustrado.",
+            "Autoestima fluctuante.",
+            "Impaciente y defensivo.",
+            "Gran sensibilidad.",
+            "Incierto sobre los roles sociales.",
+            "Más vulnerable psicológicamente.",
+            "Fuerte motivación para seguir convicciones internas.",
+            "Quiere corregir los errores.",
+            "Alta tolerancia a la ambigüedad.",
+            "Energía alta."
+         ],
+         "comportamientos": [
+            "Cuestiona reglas y políticas.",
+            "Defiende sus convicciones.",
+            "Emocionalmente responsable.",
+            "Es honesto y directo.",
+            "Expresa creatividad.",
+            "Muestra perseverancia en el área (si ésta es de su interés, le apasiona).",
+            "Muestran espontaneidad.",
+            "Puede entrar en conflicto con sus compañeros.",
+            "Puede tener un pobre autocontrol.",
+            "Se muestra desafiante y cuestiona la autoridad."
+         ],
+         "necesidades": [
+            "Estar conectado/a con los demás.",
+            "Aprender el tacto, flexibilidad, autoconciencia y autocontrol.",
+            "Apoyo a la creatividad.",
+            "Sistemas contractuales.",
+            "Menos presión para ajustarse.",
+            "Habilidades interpersonales para afirmar/ratificar a los demás.",
+            "Estrategias para hacer frente a posibles vulnerabilidades psicológicas."
+         ],
+         "reconocimiento": [
+            "Estar conectado/a con los demás.",
+            "Aprender el tacto, flexibilidad, autoconciencia y autocontrol.",
+            "Apoyo a la creatividad.",
+            "Sistemas contractuales.",
+            "Menos presión para ajustarse.",
+            "Habilidades interpersonales para afirmar/ratificar a los demás.",
+            "Estrategias para hacer frente a posibles vulnerabilidades psicológicas."
+         ],
+         "identificacion": [
+            "Preguntar: ¿De qué maneras expresas la Creatividad?… En vez de ¿cómo/cuánto de Creativo eres?",
+            "Usar medidas objetivas específicas del dominio.",
+            "Enfocarse en el potencial Creativo en lugar de en el logro."
+         ],
+         "ayuda-interna": [
+            "Respeto por sus objetivos/metas.",
+            "Tolerar niveles más altos de desviación.",
+            "Permitirles perseguir intereses (pasiones).",
+            "Ofrecer un modelo de comportamiento apropiado.",
+            "Compartir proyectos familiares.",
+            "Comunicar confianza en sus capacidades.",
+            "Afirmar sus fortalezas.",
+            "Reconocer la vulnerabilidad psicológica e intervenir cuando sea necesario."
+         ],
+         "ayuda-externa": [
+            "Flexibilidad en cuanto a la tolerancia.",
+            "Recompensar el nuevo pensamiento.",
+            "Colocación con docentes apropiados.",
+            "Comunicación directa y clara.",
+            "Dar espacio para la expresión de los sentimientos.",
+            "Entrenamiento específico en el área de dominio.",
+            "Permitir no conformidad.",
+            "Apoyo a través de Mentoría.",
+            "Instrucción directa en habilidades interpersonales.",
+            "Entrenador para práctica deliberada."
+         ]
+      },
+      {
+         "id": "0003",
+         "tipo": "III. Invisible",
+         "orden": "3",
+         "descripcion": "Individuos que ocultan su talento.",
+         "general": [
+            "Individuos con alta capacidad que ocultan o niegan su talento.",
+            "Los individuos de este grupo no son fácilmente identificables.",
+            "Habitualmente entraban en esta tipología niñas/adolescentes/mujeres.",
+            "También se incluyen las personas con altas capacidades pertenecientes a minorías (étnica, racial, clase socio-económico, religiosa, identidad sexual).",
+            "Se produce un conflicto entre conseguir logros y pertenecer; es visto como una traición de su grupo social.",
+            "Pueden presentar una baja autoestima o incluso sentir ansiedad. Esto es debido al conflicto entre el éxito social y el académico.",
+            "Crean crisis y generan disrupciones.",
+            "Son individuos que tienen habilidades para contar aquello que los otros quieren oír."
+         ],
+         "sentimientos": [
+            "Deseo de pertenecer socialmente.",
+            "Se siente inseguro y presionado.",
+            "Tendencia a sentirse en conflicto, culpable e inseguro.",
+            "Inseguro de su derecho a expresar sus emociones.",
+            "Disminución del sentido de sí mismo.",
+            "Ambivalente sobre el logro.",
+            "Internaliza y personaliza ambigüedades y conflictos sociales.",
+            "Ve algunos comportamientos de logro como traición a su grupo social."
+         ],
+         "comportamientos": [
+            "Devalúa, o niega su talento ( tuve suerte, estaba en el lugar adecuado…).",
+            "No conectado con el maestro o la clase.",
+            "Queda fuera de los grupos de altas capacidades o talentoso así como de clases avanzadas.",
+            "Rechaza los desafíos.",
+            "Se muestra inseguro o ansioso.",
+            "Se mueve de un grupo de compañeros a otro.",
+            "Trata de agradar a los demás."
+         ],
+         "necesidades": [
+            "Libertad para tomar decisiones.",
+            "Los conflictos deben hacerse explícitos.",
+            "Aprender a cambiar el lenguaje con que se expresan ( relacionado con su devaluación).",
+            "Red de grupo de compañeros/as con altas capacidades.",
+            "Ayuda/Soporte para potenciar sus capacidades.",
+            "Mostrar modelos de roles que están más allá de culturas (Martin Luther King, Amaya Valdemoro, Madamme Curie…).",
+            "Auto comprensión y aceptación.",
+            "Ser escuchados (una audiencia para escuchar lo que tienen que decir )."
+         ],
+         "reconocimiento": [
+            "Vistos como líderes o bien no son reconocidos.",
+            "Vistos entre promedio y exitoso.",
+            "Percibido como obediente.",
+            "Vistos como callados o tímidos.",
+            "Vistos como poco dispuesto a arriesgar.",
+            "Vistos como resistente."
+         ],
+         "identificacion": [
+            "Mediante entrevistas.",
+            "Nominaciones de padres (ser cautelosos).",
+            "Nombramientos de autoridad competente (docentes, dirección…).",
+            "Cautela con las nominaciones de los compañeros.",
+            "Rendimiento demostrado.",
+            "Medidas de potencial creativo.",
+            "Medidas no verbales de inteligencia."
+         ],
+         "ayuda-interna": [
+            "Normaliza su disonancia (asociado a diversidad).",
+            "Planificación universitaria y profesional.",
+            "Proporcionar modelos de roles con altas capacidades.",
+            "Modelo de aprendizaje permanente.",
+            "Ofrecer libertad para tomar decisiones.",
+            "Normaliza la experiencia en la familia.",
+            "No comparar con hermanos.",
+            "Brindar intermediación cultural.",
+            "Crear reconocimiento multicultural."
+         ],
+         "ayuda-externa": [
+            "Enmarcar los conceptos como fenómenos sociales.",
+            "Entornos de aprendizaje acogedores.",
+            "Proporcionar modelos a seguir.",
+            "Ayuda a desarrollar grupos de apoyo.",
+            "Discusiones abiertas sobre clase, racismo, sexismo.",
+            "Intermediación cultural.",
+            "Instrucción directa de habilidades sociales.",
+            "Enseñe el plan de estudios oculto.",
+            "Proporcionar planificación universitaria.",
+            "Discuta los costos del éxito ( concienciar sobre lo que supone)."
+         ]
+      },
+      {
+         "id": "0004",
+         "tipo": "IV. En Riesgo",
+         "orden": "4",
+         "descripcion": "Individuos con tendencia al bajo rendimiento por desmotivación.",
+         "general": [
+            "Individuos con alta capacidad que ofrecen un bajo rendimiento académico/laboral debido a desmotivación.",
+            "Tendencia al abandono escuela; en caso más extremos puede darse abuso sustancias estupefacientes, comportamiento criminal, suicidio, agresión, miembros de bandas.",
+            "Dificultades emocionales y de comportamiento.",
+            "Desajuste entre capacidades y necesidades (déficits en sus habilidades).",
+            "Individuos cuyas necesidades de seguridad y estructura no han sido satisfechas.",
+            "Inestabilidad en el entorno familiar.",
+            "Actitudes negativas hacia la autoridad.",
+            "Pobre ajuste social.",
+            "Comunicación insuficiente entre casa y la escuela.",
+            "En la adolescencia muestran enfado, resentimiento.",
+            "Suelen entrar en programas preventivos y terapéuticos."
+         ],
+         "sentimientos": [
+            "Resentido y enojado.",
+            "Deprimido.",
+            "Imprudente y manipulador.",
+            "Pobre autoconcepto.",
+            "Defensivo.",
+            "Expectativas irrealistas.",
+            "No es aceptado.",
+            "Resistente a la autoridad.",
+            "No motivado por recompensas dirigidas por la autoridad competente.",
+            "Es un subgrupo con tendencia antisocial."
+         ],
+         "comportamientos": [
+            "Busca la emoción.",
+            "Crea armonía en las relaciones.",
+            "Crea crisis y causa interrupciones.",
+            "Produce trabajo con falta de consistencia.",
+            "Es crítico consigo mismo y con los demás.",
+            "Expresa creatividad.",
+            "Intermitencia (asistencia, compañía).",
+            "Le interesa más lo externo.",
+            "Obtiene mala notas/mal rendimiento académico.",
+            "Tiende a autoaislarse."
+         ],
+         "necesidades": [
+            "Seguridad y estructura",
+            "Un ambiente «alternativo».",
+            "Un programa individualizado.",
+            "Confrontación y responsabilidad.",
+            "Disponer de alternativas.",
+            "Asesoramiento profesional.",
+            "Dirección y objetivos a corto plazo."
+         ],
+         "reconocimiento": [
+            "Visto como problemático o irresponsable.",
+            "Visto como rebelde.",
+            "Se les puede tener miedo.",
+            "Se puede tener miedo por ellos.",
+            "Los adultos se sienten impotentes para ayudarlos.",
+            "Los adultos pueden estar enojados con ellos.",
+            "Los compañeros son críticos."
+         ],
+         "identificacion": [
+            "Entrevistas.",
+            "Audiciones.",
+            "Medidas no verbales de inteligencia.",
+            "Nominaciones de padres.",
+            "Nombramientos de maestros.",
+            "Prueba individual de CI.",
+            "Subtests de logro."
+         ],
+         "ayuda-interna": [
+            "Buscar consejero para la familia.",
+            "Evitar las luchas de poder.",
+            "Implicación en actividades extracurriculares.",
+            "Evaluar el comportamiento peligroso.",
+            "Mantener el diálogo abierto.",
+            "Importancia de responsabilizarse de los actos propios.",
+            "Minimizar castigos.",
+            "Comunicar confianza en la capacidad de superar obstáculos.",
+            "Preservar las relaciones."
+         ],
+         "ayuda-externa": [
+            "Mantener expectativas altas (no rebajarlas).",
+            "Realizar pruebas de diagnóstico.",
+            "Trabajo con habilidades de estudio no tradicionales.",
+            "Estudios en profundidad y mentorías.",
+            "Entrenamiento académico.",
+            "Visitas a domicilio.",
+            "Promover la resiliencia.",
+            "Discuta opciones secundarias.",
+            "Ofrecer Apoyos/Recomendaciones provocativos."
+         ]
+      },
+      {
+         "id": "0005",
+         "tipo": "V. Doble/Múltiple Excepcionalidad",
+         "orden": "5",
+         "descripcion": "Individuos que presentan altas capacidades junto a otras necesidades.",
+         "general": [
+            "Individuos con alta capacidad acompañadas de necesidades educativas de aprendizaje.",
+            "Los individuos de este grupo no son fácilmente identificables.",
+            "Tienen la percepción de que ha fallado en la escuela. Se ven como un fracaso.",
+            "Muestran claras dificultades socio-emocionales; más que en otros grupos.",
+            "Importante trabajar con ellos antes de los 9-10 años.",
+            "60% of chicos con TDAH poseen también algún tipo de DEA (Dificultades específicas de Aprendizaje).",
+            "Trabajar con sus fortalezas mientras se les acompaña en sus debilidades.",
+            "Se consiguen logros a largo plazo o logros a nivel de competencias Sociales y Emocionales (no tanto a nivel académico o de pensamiento)."
+         ],
+         "sentimientos": [
+            "Indefensión aprendida",
+            "Intensa frustración y enojo.",
+            "Trastornos del estado de ánimo.",
+            "Propenso al desaliento.",
+            "Trabaja para mantener/resistir (no proactivo).",
+            "Pobre autosuficiencia académica.",
+            "No se ven a sí mismos como exitosos.",
+            "Pobre autoconcepto académico.",
+            "No encuentra su lugar (no sabe a dónde pertenecer)."
+         ],
+         "comportamientos": [
+            "Demuestra falta de consistencia en el trabajo.",
+            "Disfruta de la novedad y la complejidad.",
+            "Es buen solucionador de problemas.",
+            "Hace conexiones fácilmente.",
+            "Puede parecer lento en el procesamiento de la información.",
+            "Posee algunos aspectos del funcionamiento social / emocional más propios de individuos más jóvenes (disincronías).",
+            "Notas/ rendimiento académico medio-bajo.",
+            "Piensa conceptualmente.",
+            "Problemas de comportamiento.",
+            "Puede no ser capaz de hacer frente al grupo de compañeros dotados.",
+            "Puede ser disruptivo o quedarse fuera de la tarea.",
+            "Tiende a ser desorganizado."
+         ],
+         "necesidades": [
+            "Énfasis en las fortalezas.",
+            "Estrategias de afrontamiento.",
+            "Desarrollo de habilidades.",
+            "Monitoreo de trastornos adicionales, especialmente TDAH.",
+            "Aprender a perseverar.",
+            "Ambiente que desarrolla fortalezas.",
+            "Aprender a autogestionarse."
+         ],
+         "reconocimiento": [
+            "Visto como raro.",
+            "Subestimado por su potencial.",
+            "Visto como impotente.",
+            "No es percibido como no perteneciente a altas capacidades.",
+            "Percibido como que requiere una gran cantidad de estructura mental.",
+            "Visto solo por la discapacidad/dificultad en el aprendizaje.",
+            "Requiere demasiadas modificaciones debido a la adaptación (para las necesidades asociadas a otro/s déficit/s)."
+         ],
+         "identificacion": [
+            "Medida del funcionamiento actual de la clase.",
+            "Calificación de pruebas de consecución/logro.",
+            "Evaluación basada en el currículo.",
+            "Examinar el rendimiento a lo largo del tiempo (importancia del proceso frente al resultado).",
+            "Buscar patrones que combinen rendimiento decreciente con evidencia de capacidad superior.",
+            "No confiar en el análisis de dispersión de CI ni en el análisis de discrepancia."
+         ],
+         "ayuda-interna": [
+            "Enfocarse en las fortalezas al tiempo que atiende la dificultad/discapacidad.",
+            "Desarrollar voluntad para tener éxito.",
+            "Reconocer y afirmar capacidades talentosas.",
+            "Desafío en áreas de fortaleza.",
+            "Ofrecer oportunidades de asumir riesgos.",
+            "Asumir que la universidad es una posibilidad.",
+            "Defensa en la escuela.",
+            "Participación familiar.",
+            "Nutrir el autocontrol.",
+            "Enseñar cómo establecer y alcanzar metas realistas."
+         ],
+         "ayuda-externa": [
+            "Ofrecer desafíos en el área de fortaleza como primera prioridad.",
+            "Aceleración en áreas de fortalezas.",
+            "Espacios/Adaptaciones para la dificultad/discapacidad.",
+            "Pregunte, «¿qué se necesitará para que este individuo tenga éxito aquí?».",
+            "Instrucción directa en estrategias de autorregulación.",
+            "Dar tiempo para estar con los compañero de altas capacidades.",
+            "Enseñar autodefensa.",
+            "Enseñar la configuración de objetivos SMART."
+         ]
+      },
+      {
+         "id": "0006",
+         "tipo": "Perfil VI. Autónomo en Aprendizaje",
+         "orden": "6",
+         "descripcion": "Individuos que aprenden y resuelven tareas de forma autónoma.",
+         "general": [
+            "Individuos que pueden dirigir su aprendizaje de forma autónoma",
+            "Un individuo de este tipo exhibe algunas características de éxito.",
+            "El aprendizaje puede no estar dirigido a objetivos académicos.",
+            "En lugar de realizar solo el trabajo requerido, crea oportunidades para sí mismo.",
+            "Autodirigido, independiente y generalmente seguro, este individuo puede tomar riesgos académicos apropiados.",
+            "Puede asumir roles de liderazgo, pero también puede sufrir aislamiento."
+         ],
+         "sentimientos": [
+            "Seguro de sí mismo.",
+            "Autoaceptación.",
+            "Mantiene una vista incremental de las habilidades (mentalidad de crecimiento).",
+            "Optimista.",
+            "Intrínsecamente motivado.",
+            "Ambicioso y emocionado.",
+            "Puede no ver “lo académico” como una de sus más altas prioridades.",
+            "Dispuesto a fallar y aprender de ello.",
+            "Muestra tolerancia y respeto por los demás."
+         ],
+         "comportamientos": [
+            "Busca el desafío.",
+            "Defiende sus convicciones.",
+            "Es autodidacta.",
+            "Es flexible.",
+            "Establece objetivos SMART.",
+            "Expresa creatividad.",
+            "Funciona independientemente.",
+            "Habilidades sociales apropiadas.",
+            "Posee comprensión y aceptación de sí mismo.",
+            "Productor de conocimiento.",
+            "Se autorregula.",
+            "Se involucra en áreas que le apasionan."
+         ],
+         "necesidades": [
+            "Más apoyo, no menos (como pueda aparentar).",
+            "Recomendaciones para nuevas direcciones y aumentar la independencia.",
+            "Comentarios sobre fortalezas y posibilidades.",
+            "Facilitación de crecimiento continuo.",
+            "Apoyo para tomar riesgos.",
+            "Relaciones de facilitación continuas.",
+            "Llegar a ser más hábil en la gestión de sí mismo.",
+            "Equipo de apoyo."
+         ],
+         "reconocimiento": [
+            "Admirado y aceptado.",
+            "Visto como capaz y responsable por los padres.",
+            "Influencias positivas.",
+            "Exitoso en diversos ambientes.",
+            "Psicológicamente saludable.",
+            "Relaciones positivas entre iguales."
+         ],
+         "identificacion": [
+            "Demostrar rendimiento.",
+            "Atender a los productos generados.",
+            "Nominaciones.",
+            "Atender al Portafolios.",
+            "Entrevistas.",
+            "Puntuaciones de tests estandarizados.",
+            "Premios/galardones obtenidos."
+         ],
+         "ayuda-interna": [
+            "Abogar por el individuo tanto en el ámbito académico/laboral y en la comunidad.",
+            "Proporcionar oportunidades relacionadas con áreas de pasión.",
+            "Permitir amigos de todas las edades.",
+            "Eliminar restricciones de tiempo y espacio para el aprendizaje.",
+            "Ayudarlos a construir un equipo de apoyo.",
+            "Incluirlos en las pasiones de los padres.",
+            "Incluirlos en la toma de decisiones familiares.",
+            "Escucha.",
+            "No interferir en sus método/formas/maneras (mantenerse al margen)."
+         ],
+         "ayuda-externa": [
+            "Permitir el desarrollo de un plan de estudio integrado a largo plazo.",
+            "Eliminar restricciones de tiempo y espacio.",
+            "Desarrollar estudios múltiples, relacionados y en profundidad, incluyendo mentores.",
+            "Gran variedad de opciones de flexibilización/aceleración.",
+            "Mentores y agentes culturales.",
+            "Renunciar a las políticas y regulaciones escolares tradicionales.",
+            "No interferir en sus método/formas/maneras (mantenerse al margen).",
+            "Ayudarlos a enfrentar los costos sociales y psicológicos del éxito."
+         ]
+      }
+   ]
+}

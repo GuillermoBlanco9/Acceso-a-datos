@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modelo-aprendizaje id="0" clave="1">
+   <descripcion>Desc1</descripcion>
+   <detalle>Detalle desc1</detalle>
+   <perfil id="0001" orden="1" tipo="Tipo1">
+      <descripcion>Descripcion1</descripcion>
+      <general estilo="html">
+         <info>info1</info>
+         <info>info2</info>
+      </general>
+      <sentimientos>Sentimientos1</sentimientos>
+      <comportamientos>Comportamientos1</comportamientos>
+      <necesidades>Necesidades1</necesidades>
+      <reconocimiento>Reconocimiento1</reconocimiento>
+      <identificacion>Identificacion1</identificacion>
+      <ayudaInterna>AyudaInterna1</ayudaInterna>
+      <ayudaExterna>AyudaExterna1</ayudaExterna>
+   </perfil>
+   <perfil id="0001" orden="1" tipo="Tipo1">
+      <descripcion>Descripcion1</descripcion>
+      <general estilo="html">
+         <info>info1</info>
+         <info>info2</info>
+      </general>
+      <sentimientos>Sentimientos1</sentimientos>
+      <comportamientos>Comportamientos1</comportamientos>
+      <necesidades>Necesidades1</necesidades>
+      <reconocimiento>Reconocimiento1</reconocimiento>
+      <identificacion>Identificacion1</identificacion>
+      <ayudaInterna>AyudaInterna1</ayudaInterna>
+      <ayudaExterna>AyudaExterna1</ayudaExterna>
+   </perfil>
+</modelo-aprendizaje>

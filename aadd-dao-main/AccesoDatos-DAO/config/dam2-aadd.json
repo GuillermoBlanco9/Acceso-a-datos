@@ -1,0 +1,9 @@
+{
+	"basedatos": "aadd1",
+	"usuario": "aadd-dam2",
+	"clave":"dam2inm",
+	"servidor": "localhost",
+	"puerto": "3306",
+	"usuariodaoimp": "es.iestetuan.dam2.dao.fictex.UsuarioFicTextDAO",
+	"rutaFichero": "datos/usuarios.txt"			
+ }
