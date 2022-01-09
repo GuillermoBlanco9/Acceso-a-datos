@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <!-- Dialecto SQL  -->
+        <property name="hibernate.dialect">org.hibernate.dialect.MariaDBDialect</property>
+
+        <!-- Database Connection Settings -->
+        <property name="hibernate.connection.driver_class">org.mariadb.jdbc.Driver</property>
+         <property name="hibernate.connection.url">jdbc:mariadb://localhost:3306/red_metro_2411</property>
+        <property name="hibernate.connection.username">metro_2411</property>
+        <property name="hibernate.connection.password">metro</property>
+        
+        <!-- Muestra la salida de las consultas SQL en consola -->
+        <property name="hibernate.show_sql">true</property>
+                
+        <property name="hibernate.connection.assureReadOnly">true</property>
+        <property name="hibernate.connection.autoReconnect">true</property>
+        <property name="hibernate.connection.autocommit">false</property>
+        <property name="hibernate.connection.maxPoolSize">5</property> 
+        <property name="hibernate.connection.minPoolSize">2</property> 
+        <property name="hibernate.connection.poolName">MyConnectionPool</property> 
+        <property name="hibernate.connection.pool">true</property> 
+        <property name="hibernate.connection.maxIdleTime">7000</property>
+        <property name="show_sql">true</property>
+
+        <!-- Specifying Session Context -->
+        <property name="hibernate.current_session_context_class">org.hibernate.context.internal.ThreadLocalSessionContext</property>
+        <!-- Mapping With Model Class Containing Annotations --> 
+        <mapping resource="es/redmetro/dam2/vo/hibernate/Cochera.hbm.xml"/>
+
+    </session-factory>
+ </hibernate-configuration>

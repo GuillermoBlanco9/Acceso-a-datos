@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <!-- Dialecto SQL  -->
+        <property name="hibernate.dialect">org.hibernate.dialect.MariaDBDialect</property>
+
+        <!-- Configuración para la conexión a la Base de Datos -->
+        <property name="hibernate.connection.driver_class">org.mariadb.jdbc.Driver</property>
+        <property name="hibernate.connection.url">jdbc:mariadb://localhost:3306/cooperativa_renova</property>
+        <property name="hibernate.connection.username">renova-coop</property>
+        <property name="hibernate.connection.password">renova-coop</property>
+        
+        <!-- Muestra la salida de las consultas SQL en consola -->
+        <property name="hibernate.show_sql">true</property>
+                
+        <!-- Gestiona los parámetros de conexiones por parte de hibernate -->
+        <property name="hibernate.connection.assureReadOnly">true</property>
+        <property name="hibernate.connection.autoReconnect">true</property>
+        <property name="hibernate.connection.autocommit">true</property>
+        <property name="hibernate.connection.maxPoolSize">5</property> 
+        <property name="hibernate.connection.minPoolSize">2</property> 
+        <property name="hibernate.connection.poolName">AADD_Pool</property> 
+        <property name="hibernate.connection.pool">true</property> 
+        <property name="hibernate.connection.maxIdleTime">7000</property>
+
+		
+        <!-- Especifica la clase de Contexto de Sesión -->
+        <property name="hibernate.current_session_context_class">org.hibernate.context.internal.ThreadLocalSessionContext</property>
+        
+        <!-- Configuración de Hibernate para que se generen las tablas de la base de datos -->
+        <property name="hibernate.hbm2ddl.auto">create</property>
+                
+        <!-- Ficheros XML con los mapeos entre el modelo de clases de aplicación y el modelo físico E/R-->
+        <mapping resource="es/iestetuan/dam2/vo/hibernate/Servicio.hbm.xml"/>
+        <mapping resource="es/iestetuan/dam2/vo/hibernate/Contrato.hbm.xml"/>
+        <mapping resource="es/iestetuan/dam2/vo/hibernate/Socio.hbm.xml"/>
+        <mapping resource="es/iestetuan/dam2/vo/hibernate/GrupoTrabajo.hbm.xml"/>
+        <mapping resource="es/iestetuan/dam2/vo/hibernate/PersonajeInspirador.hbm.xml"/>
+        <mapping resource="es/iestetuan/dam2/vo/hibernate/AreaCooperativa.hbm.xml"/>
+        <mapping resource="es/iestetuan/dam2/vo/hibernate/SocioGrupoTrabajo.hbm.xml"/>
+        
+    </session-factory>
+ </hibernate-configuration>
+ 

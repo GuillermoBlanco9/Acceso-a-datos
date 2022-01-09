@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Trenes>
+    <cochera cod_cochera="23">
+        <nombre>cochera 1</nombre>
+        <direccion>C/VetetuaSaber 1</direccion>
+        <deposito>1</deposito>
+    </cochera>
+    <cochera cod_cochera="45">
+        <nombre>cochera 2</nombre>
+        <direccion>C/AndeestaEso 1</direccion>
+        <deposito>0</deposito>
+    </cochera>
+    <cochera cod_cochera="96">
+        <nombre>cochera 2</nombre>
+        <direccion>C/AhiseperdiounaChancla 7</direccion>
+        <deposito>1</deposito>
+    </cochera>
+    <cochera cod_cochera="78">
+        <nombre>cochera 3</nombre>
+        <direccion>C/Niidea 9</direccion>
+        <deposito>0</deposito>
+    </cochera>
+    <cochera cod_cochera="22">
+        <nombre>cochera 4</nombre>
+        <direccion>C/Tusabesdondees 4</direccion>
+        <deposito>1</deposito>
+    </cochera>
+    <cochera cod_cochera="10">
+        <nombre>cochera 5</nombre>
+        <direccion>C/EsoNoseDondeEsta 27</direccion>
+        <deposito>1</deposito>
+    </cochera>
+    <cochera cod_cochera="64">
+        <nombre>cochera 6</nombre>
+        <direccion>C/Porahisera 57</direccion>
+        <deposito>1</deposito>
+    </cochera>
+</Trenes>

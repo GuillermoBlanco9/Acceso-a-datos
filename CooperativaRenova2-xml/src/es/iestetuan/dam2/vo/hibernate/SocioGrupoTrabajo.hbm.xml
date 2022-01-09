@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="es.iestetuan.dam2.vo">
+ 
+    <!--  SOCIO GRUPO DE TRABAJO -->
+    <class name="SocioGrupoTrabajo" table="T_SOCIO_GRUPOTRABAJO"  dynamic-insert="true" dynamic-update="true">
+        <composite-id >
+        	<key-many-to-one name="socio" class="Socio" column="cod_socio" />
+        	<key-many-to-one name="grupoTrabajo" class="GrupoTrabajo" column="cod_grupotrabajo" />
+    	</composite-id>
+    	
+        <property name="fechaAlta" column="fecha_alta" type="java.util.Date" not-null="true"/>
+        <property name="fechaBaja" column="fecha_baja" type="java.util.Date"/>
+    </class>
+
+</hibernate-mapping>

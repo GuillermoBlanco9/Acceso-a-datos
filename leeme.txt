@@ -1,0 +1,5 @@
+* Has accedido a un espacio del servidor FTP en que tienes todos los permisos de trabajo.
+
+- En este directorio, es en el que dejaréis vuestros ficheros XML; ficheros que se usarán para cargar información sobre Tren, Estación y Acceso en la base de datos.
+
+- Estos ficheros serán procesados por otro grupo de trabajo, así que os sugiero que los defináis con "mimo".

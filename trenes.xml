@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Trenes>
+    <tren linea="1"  cochera="23">
+        <codigo>23456</codigo>
+        <Modelo>Aj-23</Modelo>
+        <EmpresaConstructora>Madeline</EmpresaConstructora>
+        <FechaIncorporacion>12-3-00</FechaIncorporacion>
+    </tren>
+    <tren linea="2" cochera="45">
+        <codigo>17586</codigo>
+        <Modelo>Aj-26</Modelo>
+        <EmpresaConstructora>Descript</EmpresaConstructora>
+        <FechaIncorporacion>16-2-05</FechaIncorporacion>
+    </tren>
+    <tren linea="3" cochera="96">
+        <codigo>019762</codigo>
+        <Modelo>Aj-23</Modelo>
+        <EmpresaConstructora>Madeline</EmpresaConstructora>
+        <FechaIncorporacion>12-3-00</FechaIncorporacion>
+    </tren>
+    <tren linea="4" cochera="78">
+        <codigo>23876</codigo>
+        <Modelo>Ap-2</Modelo>
+        <EmpresaConstructora>Hoyos</EmpresaConstructora>
+        <FechaIncorporacion>11-6-09</FechaIncorporacion>
+    </tren>
+    <tren linea="5" cochera="22">
+        <codigo>21532</codigo>
+        <Modelo>Bs-32</Modelo>
+        <EmpresaConstructora>Ramones S.L.</EmpresaConstructora>
+        <FechaIncorporacion>23-4-04</FechaIncorporacion>
+    </tren>
+</Trenes>

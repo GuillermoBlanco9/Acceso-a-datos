@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="es.iestetuan.dam2.vo">
+     <!-- GRUPO DE TRABAJO -->
+    <class name="GrupoTrabajo" table="T_GRUPOTRABAJO">
+        <id name="codigoGrupoTrabajo" column="cod_grupotrabajo" type="java.lang.Long">
+            <generator class="increment" />
+        </id>
+
+        <bag name="sociosGrupoTrabajo" table="T_SOCIO_GRUPOTRABAJO" inverse="false" 
+        	 cascade="save-update" lazy="true" fetch="select">
+            <key>
+                <column name="cod_grupotrabajo" not-null="true" />
+            </key>
+            <one-to-many class="SocioGrupoTrabajo" />
+        </bag>		
+
+		<!-- Relación 1:1 representadad como N:1 con campo único-->
+		<many-to-one name="personajeInspirador" class="PersonajeInspirador"
+        			 column="cod_personaje" unique="true" cascade="all" 
+        			 not-null="true" fetch="join"/>
+		
+		<!-- Asociado a un atributo Set en la Clase de Negocio 
+        (vinculado a una relaciónm N:M). Se define 'set' en l XML para que el key 
+        se convireta en clave primaria en  T_GRUPOTRABAJO_AREACOOPERATIVA -->       
+        <set name="areasCooperativa" table="T_GRUPOTRABAJO_AREACOOPERATIVA" 
+        	 cascade="all" inverse="true" lazy="true">
+            <key>
+                <column name="cod_grupotrabajo" not-null="true" />
+            </key>
+            <many-to-many class="AreaCooperativa">
+                <column name="cod_areacooperativa" not-null="true" />
+            </many-to-many>
+        </set>      
+
+        <property name="descripcionCorta" column="desc_corta" type="java.lang.String"/>
+        <property name="descripcionLarga" column="desc_larga" type="java.lang.String"/>                      
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="es.iestetuan.dam2.vo">
+    <!-- AREA DE COOPERATIVA -->
+    <class name="AreaCooperativa" table="T_AREACOOPERATIVA">
+        <id name="codigoAreaCooperativa" type="java.lang.Long" column="cod_areacooperativa">
+            <generator class="increment" />
+        </id>
+        
+        <!-- Asociado a un atributo Set en la Clase de Negocio 
+        (vinculado a una relaciónm N:M). Se define set para que el key 
+        se convireta en clave primaria en  T_GRUPOTRABAJO_AREACOOPERATIVA -->    
+        <set name="gruposTrabajo" table="T_GRUPOTRABAJO_AREACOOPERATIVA" 
+        	 cascade="all" 	inverse="false" lazy="true" fetch="join">
+            <key>
+                <column name="cod_areacooperativa" not-null="true" />
+            </key>
+            <many-to-many class="GrupoTrabajo">
+                <column name="cod_grupotrabajo" not-null="true" />
+            </many-to-many>
+        </set>
+        
+        <property name="descripcion" column="descripcion" type="java.lang.String"/>                             
+    </class>
+</hibernate-mapping>

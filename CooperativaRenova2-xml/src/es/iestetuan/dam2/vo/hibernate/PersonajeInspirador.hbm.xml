@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="es.iestetuan.dam2.vo">
+     <!-- PERSONAJE INSPIRADOR --> 
+    <class name="PersonajeInspirador" table="T_PERSONAJEINSPIRADOR">
+		<id name="codigoPersonaje" type="java.lang.Long" column="cod_personaje" >
+			<generator class="increment">
+				<param name="property">grupoTrabajo</param>
+			</generator>
+		</id>
+		
+        <property name="nombre" column="nombre" type="java.lang.String"/>
+        <property name="indicadorPersonajeReal" column="es_personajereal" type="java.lang.Boolean"/>
+    </class>
+  
+</hibernate-mapping>

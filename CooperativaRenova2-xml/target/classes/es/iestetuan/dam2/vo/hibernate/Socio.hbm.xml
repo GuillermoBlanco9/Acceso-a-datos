@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="es.iestetuan.dam2.vo">
+    <!-- SOCIO -->
+    <class name="Socio" table="T_SOCIO">
+        <id name="codigoSocio" type="java.lang.Long" column="cod_socio">
+            <generator class="increment" />
+        </id>
+        
+        <!-- Asociado a un atributo List o Set en la Clase de Negocio (vinculado a una relaciónm 1:N) -->    
+        <bag name="sociosGrupoTrabajo" table="T_SOCIO_GRUPOTRABAJO" inverse="false" 
+        	 cascade="save-update" lazy="true" fetch="select">
+            <key>
+                <column name="cod_socio" not-null="true" />
+            </key>
+            <one-to-many class="SocioGrupoTrabajo" />
+        </bag>
+        
+        <!-- Asociado a un atributo List o Set en la Clase de Negocio (vinculado a una relaciónm 1:N) -->    
+        <bag name="contratos" table="T_CONTRATO" inverse="false" cascade="save-update" lazy="true" fetch="join">
+            <key>
+                <column name="cod_socio" not-null="true" />
+            </key>
+            <one-to-many class="Contrato" />
+        </bag>
+        
+        <property name="nif" column="nif" type="java.lang.String"/>
+		<property name="nombre" column="nombre" type="java.lang.String"/>
+        <property name="telefono" column="telefono" type="java.lang.Integer"/>
+		<property name="numeroCuenta" column="num_cuenta" type="java.lang.String"/>
+		<property name="cantidadInicialAportada" column="cantidad_inicial" type="java.lang.Float"/>	        	
+    </class>
+</hibernate-mapping>

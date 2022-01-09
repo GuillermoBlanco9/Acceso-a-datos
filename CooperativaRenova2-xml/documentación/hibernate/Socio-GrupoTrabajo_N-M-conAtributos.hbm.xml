@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="es.iestetuan.dam2.vo">
+     <!-- SOCIO -->
+    <class name="Socio" table="T_SOCIO">
+        <id name="codigoSocio" type="java.lang.Long" column="cod_socio">
+            <generator class="identity" />
+        </id>
+
+        <property name="nif" column="nif" type="java.lang.String"/>
+		<property name="nombre" column="nombre" type="java.lang.String"/>
+        <property name="telefono" column="telefono" type="java.lang.Integer"/>
+		<property name="numeroCuenta" column="num_cuenta" type="java.lang.String"/>
+		<property name="cantidadInicialAportada" column="cantidad_inicial" type="java.lang.Float"/>
+
+        <bag name="sociosGrupoTrabajo" table="T_SOCIO_GRUPOTRABAJO" inverse="false" cascade="save-update" lazy="true" fetch="select">
+            <key>
+                <column name="cod_socio" not-null="true" />
+            </key>
+            <one-to-many class="SocioGrupoTrabajo" />
+        </bag>		
+    </class>
+
+    <!--  SOCIO GRUPO DE TRABAJO -->
+    <class name="SocioGrupoTrabajo" table="T_SOCIO_GRUPOTRABAJO"  dynamic-update="true">
+        <composite-id >
+        	<key-many-to-one name="socio" class="Socio" column="cod_socio" />
+        	<key-many-to-one name="grupoTrabajo" class="GrupoTrabajo" column="cod_grupotrabajo" />
+    	</composite-id>
+    	
+        <property name="fechaAlta" column="fecha_alta" type="java.util.Date" not-null="true"/>
+        <property name="fechaBaja" column="fecha_baja" type="java.util.Date"/>
+    </class>
+
+
+    <!-- GRUPO DE TRABAJO -->
+    <class name="GrupoTrabajo" table="T_GRUPOTRABAJO">
+        <id name="codigoGrupoTrabajo" column="cod_grupotrabajo" type="java.lang.Long">
+            <generator class="identity" />
+        </id>
+
+        <property name="descripcionCorta" column="desc_corta" type="java.lang.String"/>
+        <property name="descripcionLarga" column="desc_larga" type="java.lang.String"/>
+
+        <bag name="sociosGrupoTrabajo" table="T_SOCIO_GRUPOTRABAJO" inverse="false" cascade="save-update" lazy="true" fetch="select">
+            <key>
+                <column name="cod_grupotrabajo" not-null="true" />
+            </key>
+            <one-to-many class="SocioGrupoTrabajo" />
+        </bag>		
+    </class>
+
+</hibernate-mapping>

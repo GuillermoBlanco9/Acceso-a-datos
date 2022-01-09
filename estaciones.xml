@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone=no?>
+<Estaciones>
+	<estacion>
+		<cod_estacion>0001</cod_estacion>
+		<nombre>Plaza Castilla</nombre>
+		<direccion>C/VetetuaSaber 1</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0002</cod_estacion>
+		<nombre>Ventilla</nombre>
+		<direccion>C/VetetuaSaber 17</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0003</cod_estacion>
+		<nombre>Baunatal</nombre>
+		<direccion>C/VetetuaSaber 54</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0004</cod_estacion>
+		<nombre>Fuenlabrada</nombre>
+		<direccion>C/AndeestaEso 1</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0005</cod_estacion>
+		<nombre>Chamartin</nombre>
+		<direccion>C/AndeestaEso 8</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0006</cod_estacion>
+		<nombre>Ramon y Cajal</nombre>
+		<direccion>C/AndeestaEso 32</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0007</cod_estacion>
+		<nombre>Reyes Catolicos</nombre>
+		<direccion>C/AhiseperdiounaChancla 7</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0008</cod_estacion>
+		<nombre>Marques de la Valdavia</nombre>
+		<direccion>C/AhiseperdiounaChancla 16</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0009</cod_estacion>
+		<nombre>Manuel de Falla</nombre>
+		<direccion>C/Ahiseperdiounachancla 38</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0010</cod_estacion>
+		<nombre>La Granja</nombre>
+		<direccion>C/AhiseperdiounaChancla 57</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0011</cod_estacion>
+		<nombre>Montecarmelo</nombre>
+		<direccion>C/AhiseperdiounaChancla 7</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0012</cod_estacion>
+		<nombre>Las Tablas</nombre>
+		<direccion>C/AhiseperdiounaChancla 14</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0013</cod_estacion>
+		<nombre>Tres Olivos</nombre>
+		<direccion>C/Niidea 9</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0014</cod_estacion>
+		<nombre>Begoña</nombre>
+		<direccion>C/Niidea 16</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0015</cod_estacion>
+		<nombre>Cuzco</nombre>
+		<direccion>C/Niidea 43</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0016</cod_estacion>
+		<nombre>Santiago Bernabeu</nombre>
+		<direccion>C/EsoNoseDondeEsta 2</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0017</cod_estacion>
+		<nombre>Nuevos</nombre>
+		<direccion>C/EsoNoseDondeEsta 8</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0018</cod_estacion>
+		<nombre>Gregorio Marañon</nombre>
+		<direccion>C/EsoNoseDondeEsta 27</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0019</cod_estacion>
+		<nombre>Alonso Martinez</nombre>
+		<direccion>C/Tusabesdondees 4</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0020</cod_estacion>
+		<nombre>Tribunal</nombre>
+		<direccion>C/Tusabesdondees 12</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0021</cod_estacion>
+		<nombre>PlazaEspaña</nombre>
+		<direccion>C/Tusabesdondees 21</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0022</cod_estacion>
+		<nombre>Principe Pio</nombre>
+		<direccion>C/Porahisera 5</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0023</cod_estacion>
+		<nombre>Lago</nombre>
+		<direccion>C/Porahisera 13</direccion>
+	</estacion>
+	<estacion>
+		<cod_estacion>0024</cod_estacion>
+		<nombre>Batan</nombre>
+		<direccion>C/Porahisera 57</direccion>
+	</estacion>
+</Estaciones>

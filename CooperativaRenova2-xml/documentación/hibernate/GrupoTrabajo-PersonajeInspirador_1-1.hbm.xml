@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="es.iestetuan.dam2.vo">
+     <!-- GRUPO DE TRABAJO -->
+    <class name="GrupoTrabajo" table="T_GRUPOTRABAJO">
+        <id name="codigoGrupoTrabajo" column="cod_grupotrabajo" type="java.lang.Long">
+            <generator class="identity" />
+        </id>
+
+		<!-- Relación 1:1 -->
+		<one-to-one name="personajeInspirador" class="PersonajeInspirador" cascade="save-update" /> 
+
+        <property name="descripcionCorta" column="desc_corta" type="java.lang.String"/>
+        <property name="descripcionLarga" column="desc_larga" type="java.lang.String"/>              
+    </class>
+
+     <!-- PERSONAJE INSPIRADOR --> 
+    <class name="PersonajeInspirador" table="T_PERSONAJEINSPIRADOR">
+		<!-- Clave primaria referenciada a clave foránea de Grupo de Trabajo -->
+		<id name="codigoPersonaje" type="java.lang.Long">
+			<column name="cod_personaje" />
+			<generator class="foreign">
+				<param name="property">grupoTrabajo</param>
+			</generator>
+		</id>
+		
+		<!-- Relación 1:1 -->
+  		<one-to-one name="grupoTrabajo" class="GrupoTrabajo" constrained="true"></one-to-one>
+          
+        <property name="nombre" column="nombre" type="java.lang.String"/>
+        <property name="indicadorPersonajeReal" column="es_personajereal" type="java.lang.Boolean"/>
+    </class>
+  
+</hibernate-mapping>

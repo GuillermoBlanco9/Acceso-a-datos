@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="es.iestetuan.dam2.vo">
+    <!-- CONTRATO -->
+    <class name="Contrato" table="T_CONTRATO">
+        <id name="codigoContrato" type="java.lang.Long" column="cod_contrato">
+            <generator class="increment" />
+        </id>
+
+        <many-to-one name="servicio" class="Servicio" fetch="select" cascade="all">
+            <column name="cod_servicio" not-null="true" />
+        </many-to-one>
+        
+        <many-to-one name="socio" class="Socio" fetch="join">
+            <column name="cod_socio" not-null="true" />
+        </many-to-one>
+        
+        <property name="indicadorPagoMensual" column="ind_pago_mensual" type="java.lang.Boolean"/>
+        
+    </class>
+</hibernate-mapping>

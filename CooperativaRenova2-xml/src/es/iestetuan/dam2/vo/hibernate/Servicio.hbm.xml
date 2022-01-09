@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="es.iestetuan.dam2.vo"> 
+      <!-- SERVICIO -->
+    <class name="Servicio" table="T_SERVICIO">
+        <id name="codigoServicio" type="java.lang.Long" column="cod_servicio">
+            <generator class="increment" />
+        </id>
+
+        <!-- one-to-many (se puede usar SET en vez de BAG)-->
+        <bag name="contratos" inverse="false" cascade="all" lazy="true">
+            <key>
+                <column name="cod_servicio" not-null="true" />
+            </key>
+            <one-to-many class="Contrato" />
+        </bag>
+		
+		<property name="descripcion" column="descripcion" type="java.lang.String"/>
+		<property name="precio" column="precio" type="java.lang.Float"/>        		
+    </class>	
+</hibernate-mapping>
